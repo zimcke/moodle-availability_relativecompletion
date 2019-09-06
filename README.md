@@ -6,7 +6,7 @@ The relative completion plugin enables the teacher to make a specific course act
 
 The availability restrictions will have no effect when there is currently no previous activity or section. As with all availability restrictions relative completion can be combined with other criteria.
 
-This plugin is an abstraction of the availability_completion plugin (developed by the Open University) that is now part of Moodles core's functionality.
+This plugin is an abstraction of the availability_completion plugin (developed by the Open University) that is now part the Moodles core functionality.
 
 ## Examples 
 
