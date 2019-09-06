@@ -10,5 +10,12 @@ This plugin is an abstraction of the availability_completion plugin (developed b
 
 ## Examples 
 
-![Screenshot of the course creator's view](http://computationeeldenken.org/wp-content/uploads/2019/09/screenshot.png)
+Below are some examples of the plugin in use.
 
+
+![Screenshot of the settings page of a course activity](http://computationeeldenken.org/wp-content/uploads/2019/09/screenshot2.png)
+Screenshot of the settings page of a course activity when adding a relative completion criterium.
+
+
+![Screenshot of the course creator's view](http://computationeeldenken.org/wp-content/uploads/2019/09/screenshot.png)
+Screenshot of the course creator's view after adding a relative completion condition.
